@@ -43,10 +43,10 @@ const projectList = [
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Cloning Netflix",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I have created this Netlix clone using basic HTML, CSS and Javascript. i gain a lot of knowledge while creating this project.",
+    url: "https://chandan-kumar-mahato.github.io/Netflix-task2/",
   },
   {
     title: "GitHub Codespaces and github.dev",
